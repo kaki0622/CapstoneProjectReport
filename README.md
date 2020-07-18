@@ -41,6 +41,54 @@
 ```
 
 ## 3. Methodology
+**Structure of The Questionnaire - Five parts** 
+```
+-Introduction 
+-Warm-up questions (whether the respondent is a smoker or not)
+-Transition questions (Have you heard of HNB),
+-Complex  questions 
+-Personal information questions
+```
+
+**Classification of Questions** 
+```
+The questionnaire includes 
+-11 nominal questions (Q1,2,5,7,8,9,11,15,16,17,21)
+-4 ordinal questions (Q3,4,13,19)
+-6 interval questions (Q6,10,12,14,18,20)
+-NO ratio question involved
+```
+
+**Descriptive Research** 
+```
+The design of each question is as clear as possible
+-Simple grammar 
+-focusing on a single topic
+-Avoiding to use absolute words 
+```
+
+**Sample Selection**
+```
+- The target group of interviewees is "the adult in mainland China"
+-“Convenient Sampling Method” was used
+  -Limitation
+    · HNB products are not yet available in the Chinese mainland market --- Hard to define user group
+    · Questionnaires were sent out via WeChat --- can not cover all target group
+    · Recent COVID-19 pandemic
+```
+
+**Sample Size** 
+```
+Original plan --- 250
+The total number of samples received  --- 201
+```
+
+**Collection Method** 
+```
+- "Online Computer-administered" method
+- Formed based on the WenJuanXing (问卷星) platform
+- Distributed on the WeChat platform.
+```
 
 ## 4. Data Analysis & Research Findings
 
