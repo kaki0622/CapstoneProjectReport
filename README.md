@@ -14,7 +14,7 @@
 3. To identify the target customers of HNB product and achievable market strategies.
 ```
 
-<a><img src="https://img-blog.csdnimg.cn/20200617175827315.png" alt="V1_03_difficult" width="240" height="180" border="10" /></a>
+<a><img src="https://github.com/kaki0622/CapstoneProjectReport/blob/master/support_files/Jietu20200718-213927.jpg" width="500" height="180" border="10" /></a>
 
 ## 2. PESTEL & SWOT Analysis
 
